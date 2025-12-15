@@ -1,0 +1,24 @@
+# Google ADK and Generative AI
+google-adk[database]==0.3.0
+google-generativeai==0.8.5
+
+# Environment management
+python-dotenv==1.1.0
+
+# Database (SQLite is built-in, but we may need additional tools)
+# No additional packages needed for SQLite
+
+# Web scraping (for Phase 1B)
+beautifulsoup4==4.12.3
+requests==2.31.0
+lxml==5.1.0
+
+# YouTube transcript (for Phase 1B)
+youtube-transcript-api>=1.2.3
+
+# Text analysis utilities
+textstat==0.7.3
+
+# Logging and utilities
+deprecated==1.3.1
+
